@@ -1,4 +1,4 @@
-# Resources
+# Resources for Product Managers
 
 A curated collection of useful links — eval tools, research papers, and more.
 
