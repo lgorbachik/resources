@@ -3,10 +3,14 @@
 A curated collection of useful links — eval tools, research papers, and more.
 
 ---
+## AI/ML Education
+|Description | Link |
+|Machine Learning|[Coursera specialization](https://www.coursera.org/specializations/machine-learning-introduction)|
+|Transformers and LLM architecture, evals, agents|[Stanford CME295 Transformers & LLMs](https://www.youtube.com/watch?v=Ub3GoFaUcds&list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy)|
+|Deep Learning|[Coursera and DeepLearning AI specialization](https://www.coursera.org/specializations/deep-learning)|
 
-## Eval Tools
 
-### Frameworks & Libraries (Open Source)
+## Eval Frameworks & Libraries (Open Source)
 
 | Name | Description | Link |
 |------|-------------|------|
@@ -19,7 +23,7 @@ A curated collection of useful links — eval tools, research papers, and more.
 | Giskard | LLM testing & vulnerability scanning framework | [github](https://github.com/Giskard-AI/giskard) |
 | Inspect AI | UK AISI's agent evaluation framework for safety & capability evals | [github](https://github.com/UKGovernmentBEIS/inspect_ai) |
 
-### Platforms & Observability
+## Platforms & Observability
 
 | Name | Description | Hosting | Link |
 |------|-------------|---------|------|
