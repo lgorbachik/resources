@@ -39,7 +39,7 @@ A curated collection of useful links — eval tools, research papers, and more.
 | Title | Topic | Link |
 |-------|-------|------|
 | π-BENCH: Evaluating Proactive Personal Assistant Agents in Long-Horizon Workflows|AI Assistant evaluation |https://arxiv.org/pdf/2605.14678|
-|Spreadsheet-RL: Advancing Large Language Model Agents on Realistic Spreadsheet Tasks via Reinforcement Learning|https://arxiv.org/pdf/2605.22642|
+|Spreadsheet-RL: Advancing Large Language Model Agents on Realistic Spreadsheet Tasks via Reinforcement Learning|Spreadsheet Agents|https://arxiv.org/pdf/2605.22642|
 
 ---
 
