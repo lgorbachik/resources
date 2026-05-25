@@ -4,10 +4,12 @@ A curated collection of useful links — eval tools, research papers, and more.
 
 ---
 ## AI/ML Education
-| Description | Link |
-| Machine Learning| [Coursera specialization](https://www.coursera.org/specializations/machine-learning-introduction)|
+
+| Name| Link |
+|------|------|
+| Machine Learning| [Coursera specialization](https://www.coursera.org/specializations/machine-learning-introduction) |
 | Transformers and LLM architecture, evals, agents|[Stanford CME295 Transformers & LLMs](https://www.youtube.com/watch?v=Ub3GoFaUcds&list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy)|
-|Deep Learning| [Coursera and DeepLearning AI specialization](https://www.coursera.org/specializations/deep-learning)|
+|Deep Learning| [Coursera and DeepLearning AI specialization](https://www.coursera.org/specializations/deep-learning) |
 
 
 ## Eval Frameworks & Libraries (Open Source)
